@@ -1,2 +1,23 @@
-# SCT_ML_2
-This project uses K-Means Clustering to group retail store customers based on their Annual Income and Spending Score, helping analyze customer behavior and segmentation patterns effectively.
+# Customer Segmentation using K-Means Clustering
+
+## Objective
+Group customers of a retail store based on their purchase behavior using K-Means Clustering.
+
+## Dataset
+Mall Customers Dataset
+
+## Technologies Used
+Python
+Pandas
+Matplotlib
+Scikit-Learn
+
+## Algorithm
+K-Means Clustering
+
+## Features Used
+Annual Income (k$)
+Spending Score (1-100)
+
+## Output
+The model groups customers into different clusters and visualizes them using a scatter plot.
